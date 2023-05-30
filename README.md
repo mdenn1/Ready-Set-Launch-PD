@@ -18,6 +18,8 @@ This Repository contains all the neccessary files and instructions to assemble t
     * Avionics Launch Steps
     * Single Stage Rocket Launch Procedure
     * Post Launch Checklist
+* **Logs**
+    * This will be where your avionics flight data is downloaded to using the instructions provided in the "Instructions" folder
 * **OpenRocket Files**
     * Open Rocket Example File
 * **PD Documents and Prework**
