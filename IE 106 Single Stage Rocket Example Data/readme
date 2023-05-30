@@ -1,0 +1,12 @@
+This folder contains the example data of single-stage rocket tests 
+
+The base rocket weight before payload is 969 Grams
+
+
+DoD Group: Payloud = 0.00 oz
+Group 1: Payload = 0.75 oz
+Group 2: Payload = 1.50 oz
+Group 3: Payload = 2.25 oz
+Group 4: Payload = 3.00 oz
+Group 5: Payload = 3.75 oz
+Group 6: Payload = 4.50 oz
