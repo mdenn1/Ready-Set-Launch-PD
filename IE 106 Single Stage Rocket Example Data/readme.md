@@ -22,5 +22,6 @@ This folder contains the example data of single-stage rocket tests
 * Group 6: Payload = 4.50 oz
 
 
-## Additional FIles
+## Additional Files
 * We have also provided the .ork Open Rocket Simulation File for these rockets (not including payload).
+* There are also 2 example excel files. One is the raw data you would export from UAV Logviewer, the second is after we have trimmed the start and stop times and flipped the orientation of the data.
